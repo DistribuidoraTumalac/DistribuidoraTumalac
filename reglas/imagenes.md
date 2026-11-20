@@ -4,5 +4,4 @@ Agregá una fila por imagen. Indicá un criterio concreto para decidir cuándo a
 
 | Ruta del archivo | Tareas en las que aplica | Uso obligatorio y criterio de revisión |
 | --- | --- | --- |
-
-La tabla empieza vacía hasta que se suban y registren las imágenes de la distribuidora.
+| Pendiente de subir el archivo original | Siempre que el usuario pida usar el logo de la distribuidora | Insertá la imagen original compartida por el usuario. Verificá que tenga el símbolo negro y turquesa a la izquierda y el texto «TUMALAC» sobre «DISTRIBUIDORA», sobre fondo blanco. Si el original no está disponible, pedíselo al usuario y marcá el entregable como pendiente de validación. |
